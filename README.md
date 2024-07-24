@@ -36,7 +36,8 @@ Aquí tienes una visión general de los archivos y carpetas más importantes en 
 
 
 Buenas Prácticas al Realizar Commits
-Mantener un historial de commits limpio y bien documentado es crucial para la colaboración y el mantenimiento del código. Aquí tienes algunas buenas prácticas para realizar commits:
+
+Mantener un historial de commits limpio y bien documentado es crucial para la colaboración y el mantenimiento del código.
 
 Commits Frecuentes y Atómicos:
 
