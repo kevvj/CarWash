@@ -28,10 +28,13 @@ Luego, abre tu navegador y navega a http://localhost:4200.
 Estructura del Proyecto
 Aquí tienes una visión general de los archivos y carpetas más importantes en un proyecto Angular:
 
-src/: Contiene el código fuente del proyecto.
-app/: Contiene los componentes y módulos principales.
-assets/: Contiene recursos estáticos como imágenes y estilos.
-environments/: Contiene configuraciones específicas para diferentes entornos (desarrollo, producción).
+- Contiene el código fuente del proyecto.
+- Contiene los componentes y módulos principales.
+- Contiene recursos estáticos como imágenes y estilos.
+- Contiene configuraciones específicas para diferentes entornos (desarrollo, producción).
+
+
+
 Buenas Prácticas al Realizar Commits
 Mantener un historial de commits limpio y bien documentado es crucial para la colaboración y el mantenimiento del código. Aquí tienes algunas buenas prácticas para realizar commits:
 
