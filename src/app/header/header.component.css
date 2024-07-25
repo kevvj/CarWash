@@ -1,0 +1,13 @@
+
+
+header{
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    border: 1px solid #0077ff;
+}
+
+p{
+    margin: 40px 0;
+}
